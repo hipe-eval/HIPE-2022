@@ -1,0 +1,25 @@
+# Docs
+- https://jekyllrb.com/docs/
+
+
+
+# Setup environment locally for development
+cd HIPE-2022
+bundle install --path vendor/bundle
+
+
+# Build and run site
+bundle exec jekyll serve
+
+# Delete all temporary files
+bundle exec jekyll clean
+
+
+# Images and data assets for the site; let's stick to two main subdirectories of assets to store them
+assets/images/
+
+assets/data/
+
+# setup/change navigation
+See https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+Configured in `_data/navigation.yml`
