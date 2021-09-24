@@ -130,7 +130,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Mailing List"
+    - label: "HIPE 2022 Mailing List"
+      icon: "fas fa-fw fa-envelope-square"
       url: "https://groups.google.com/g/hipe-2022"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
