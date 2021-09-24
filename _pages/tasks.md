@@ -2,7 +2,8 @@
 title: Tasks & Data
 permalink: tasks
 ---
-Sample data will be available by 1 December 2021.
+Sample data will be available by 1 December 2021. We will offer all datasets in a simple tab-separated verticalized textual format (CoNLL-like) using an IOB tagging scheme. 
+See [HIPE 2020 datasets](https://github.com/impresso/CLEF-HIPE-2020/tree/master/data) for an example. 
 
 
 ## Objectives of HIPE 2022
