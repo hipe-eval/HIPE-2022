@@ -29,7 +29,7 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           :  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-email            : 'https://groups.google.com/forum/#!forum/hipe-2022'
+email            : 'https://groups.google.com/g/hipe-2022'
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -105,8 +105,8 @@ author:
   name             : "CLEF HIPE 2022 Organizers"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
-  location         : 'dada' # "Somewhere"
-  email            : 'https://groups.google.com/forum/#!forum/hipe-2022'
+  location         : #'dada' # "Somewhere"
+  email            : 'https://groups.google.com/g/hipe-2022'
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -130,9 +130,11 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Mailing List"
+      url: "https://groups.google.com/g/hipe-2022"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: 'https://twitter.com/impressoproject'
 
 
 # Reading Files
