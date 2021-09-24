@@ -59,3 +59,7 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+ - 24 September 2021: [Lab presentation at CLEF 2021](https://docs.google.com/presentation/d/1wb08-0WROHMSGyLbWzlp5IZHhAGg-WAMLuL18i7_2MM/edit?usp=sharing)
+
+
