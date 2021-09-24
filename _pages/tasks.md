@@ -19,7 +19,7 @@ Sample data will be available by 1 December 2021.
 ## Tasks
 **Task 1: Named Entity Recognition and Classification (NERC)**
   - Subtask 1.1: 'NERC Essentials': recognition and classification of high-level entity types (all languages) 
-  - Subtask 1.2: 'NERC fine-grained' for a subset of languages (subset of languages) 
+  - Subtask 1.2: 'NERC fine-grained' for a subset of languages 
 
 **Task 2 : Named Entity Linking (EL)**
 Linking of NE mentions to a unique referent in [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) or to a NIL node    if the mention does not have a referent in the KB. The entity linking task includes two settings: with and without prior knowledge of mention boundaries.
