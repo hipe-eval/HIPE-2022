@@ -11,9 +11,9 @@ Sample data will be available by 1 December 2021.
 
 ## Challenges of HIPE 2022
   - multilingual corpora from different countries: English, German (AU,DE,CH) ,French (CH,FR), Finnish, Swedish
+  - different document types (historical newspapers and classic commentaries)
   - noisy OCR
   - partial coverage of KBs with respect to historical entities
-  - different document types (historical newspapers and classic commentaries)
   - different annotation tagsets 
 
 ## Tasks
