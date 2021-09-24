@@ -8,7 +8,7 @@ permalink: organizers
  - [Maud Ehrmann](https://impresso-project.ch/consortium/people/#maud-ehrmann), EPFL, Switzerland (organizer).
  - [Matteo Romanello](https://impresso-project.ch/consortium/people/#matteo-romanello), UNIL, Switzerland (organizer).
  - [Simon Clematide](https://impresso-project.ch/consortium/people/#simon-clematide),  UZH, Switzerland (organizer).
- - [Antoine Doucet](https://pageperso.univ-lr.fr/antoine.doucet/), La Rochelle, France.
+ - [Antoine Doucet](https://pageperso.univ-lr.fr/antoine.doucet/), La Rochelle, France (organizer).
 
 ## Advisory Board
 
