@@ -11,6 +11,6 @@ permalink: timeline
 - 9 June 2022: Submission of CLEF 2022 Working Notes (participants)
 - 16 June 2022: Submission of CLEF 2022 Labs Overviews (organizers)
 - 7 July 2022: Review of Labs Overviews
-- 5-8 September 2022: CLEF 2013 Conference
+- 5-8 September 2022: CLEF 2022 Conference
 
-More details coming soon
+More details coming soon.
