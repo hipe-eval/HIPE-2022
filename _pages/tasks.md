@@ -7,7 +7,7 @@ See [HIPE 2020 datasets](https://github.com/impresso/CLEF-HIPE-2020/tree/master/
 
 
 ## Objectives of HIPE 2022
-  - Assess and advance the development of **robust, adaptable and transferable** named entity processing systems.  
+ - Assess and advance the development of **robust, adaptable and transferable** named entity processing systems.  
  - Deal with **challenging historical material**, thereby supporting information extraction and text understanding of cultural heritage data.
 
 ## Challenges of HIPE 2022
