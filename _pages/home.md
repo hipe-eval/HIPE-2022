@@ -10,7 +10,7 @@ header:
    # - label: "<i class='fas fa-download'></i> Install now"
    #   url: "/docs/quick-start-guide/"
 excerpt: >
-  Shared Task on Named Entity Recognition and Linking of Historical Newspapers and Texts
+  Shared Task on Named Entity Recognition and Linking on Historical Newspapers and Texts
 
 # Each feature row has 3 columns; more than one row is possible
 feature_row:
