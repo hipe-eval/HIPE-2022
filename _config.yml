@@ -20,7 +20,7 @@ title                    : "HIPE 2022"
 title_separator          : "-"
 subtitle                 : "A CLEF Evaluation Lab." # site tagline that appears below site title in masthead
 name                     : "CLEF HIPE 2022 Organizers"
-description              :'Identifying Historical People, Places and other Entities: Shared Task on Named Entity Recognition and Linking on Historical Newspapers at CLEF 2022.'
+description              :'Identifying Historical People, Places and other Entities: Shared Task on Named Entity Recognition and Linking on Historical Documents at CLEF 2022.'
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '/HIPE-2022'
 repository               : 'hipe-eval/HIPE-2022' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
