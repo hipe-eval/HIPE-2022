@@ -5,7 +5,7 @@ title: HIPE – Identifying Historical People, Places and other Entities
 hidden: true
 header:
   overlay_color: black #"#5e616c"
-  overlay_image: /assets/images/home-feature.jpg
+  overlay_image: /assets/images/readers-cut.jpg
   #actions:
    # - label: "<i class='fas fa-download'></i> Install now"
    #   url: "/docs/quick-start-guide/"
