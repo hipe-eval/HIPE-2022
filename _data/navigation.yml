@@ -1,15 +1,17 @@
 # if the title matches an existing file _pages/TITLE.MARKUP then this file is rendered automagically
 main:
+  - title: "About"
+    url: '/about'
   - title: "Tasks & Data"
     url: '/tasks'
-  - title: Timeline
-    url: 'timeline'
-  - title: Participation
-    url: 'participation'
   - title: Evaluation
     url: 'evaluation'
+  - title: Timeline
+    url: 'timeline'
   - title: Workshop
     url: 'workshop'
+  - title: References
+    url: 'references'
   - title: Organizers
     url: 'organizers'
 
