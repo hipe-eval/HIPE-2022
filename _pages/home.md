@@ -18,6 +18,10 @@ excerpt: >
 #{% include feature_row %}
 #test here
 
+
+#{% include feature_row %}
+#test here
+
 # Each feature row has 3 columns; more than one row is possible
 feature_row:
     - image_path: #/assets/images/mm-free-feature.png
