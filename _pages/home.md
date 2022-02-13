@@ -14,8 +14,19 @@ header:
 excerpt: >
   Shared Task on Named Entity Recognition and Linking in Multilingual Historical Documents
 
+
+#{% include feature_row %}
+#test here
+
 # Each feature row has 3 columns; more than one row is possible
 feature_row:
+    - image_path: #/assets/images/mm-free-feature.png
+      alt: #"100% free"
+      title: "About HIPE-2022"
+      excerpt: "What is HIPE-2022? How can you participate? Where to register?"
+      url: "/about"
+      #btn_class: "btn--primary"
+      btn_label: "Learn more"  
     - image_path: #/assets/images/outline_done_outline_black_48dp.png
       alt: #"customizable"
       title: "Tasks & Data"
@@ -30,13 +41,6 @@ feature_row:
       url: "/timeline"
       #btn_class: "btn--inverse"
       btn_label: "Learn more"
-    - image_path: #/assets/images/mm-free-feature.png
-      alt: #"100% free"
-      title: "Participation"
-      excerpt: "How can you participate? Where to register?"
-      url: "/participation"
-      #btn_class: "btn--primary"
-      btn_label: "Learn more"      
     - image_path: #/assets/images/outline_done_outline_black_48dp.png
       alt: #"customizable"
       title: "Evaluation"
@@ -62,6 +66,9 @@ feature_row:
 
 {% include feature_row %}
 
- - 24 September 2021: [Lab presentation at CLEF 2021](https://docs.google.com/presentation/d/1wb08-0WROHMSGyLbWzlp5IZHhAGg-WAMLuL18i7_2MM/edit?usp=sharing)
 
 
+**Latest news:** 
+ - 14.02.2022: Release of [HIPE-2022 data v1.0](https://github.com/hipe-eval/HIPE-2022-data) and of the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662).
+ - 15.11.2021: CLEF lab **registration** open on 15 November 2021 and closes on 22 April 2022: [registration link](https://clef2022-labs-registration.dei.unipd.it/).
+ - 24.09.2021: [Lab presentation at CLEF 2021](https://docs.google.com/presentation/d/1wb08-0WROHMSGyLbWzlp5IZHhAGg-WAMLuL18i7_2MM/edit?usp=sharing)
