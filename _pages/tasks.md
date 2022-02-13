@@ -2,28 +2,47 @@
 title: Tasks & Data
 permalink: tasks
 ---
-Sample data will be available by 1 December 2021. We will offer all datasets in a simple tab-separated verticalized textual format (CoNLL-like) using an IOB tagging scheme. 
-See [HIPE 2020 datasets](https://github.com/impresso/CLEF-HIPE-2020/tree/master/data) for an example. 
+
+For a detailed description of the tasks and data, please refer to the [HIPE-2022 Participation Guidelines](https://doi.org/10.5281/zenodo.6045662) and check the [HIPE-2022-data repository](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md).
 
 
-## Objectives of HIPE 2022
- - Assess and advance the development of **robust, adaptable and transferable** named entity processing systems.  
- - Deal with **challenging historical material**, thereby supporting information extraction and text understanding of cultural heritage data.
-
-## Challenges of HIPE 2022
-  - multilingual corpora from different countries: English, German (AU,DE,CH) ,French (CH,FR), Finnish, Swedish
-  - different document types (historical newspapers and classic commentaries)
-  - noisy OCR
-  - partial coverage of KBs with respect to historical entities
-  - different annotation tagsets 
 
 ## Tasks
 **Task 1: Named Entity Recognition and Classification (NERC)**
-  - Subtask 1.1: 'NERC Essentials': recognition and classification of high-level entity types (all languages) 
-  - Subtask 1.2: 'NERC fine-grained' for a subset of languages 
 
-**Task 2 : Named Entity Linking (EL)**
-Linking of NE mentions to a unique referent in [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) or to a NIL node    if the mention does not have a referent in the KB. The entity linking task includes two settings: with and without prior knowledge of mention boundaries.
+  - Subtask 1.1 - 'NERC-Coarse': recognition and classification of entity mentions according to coarse-grained types (task proposed for all languages and datasets). 
+  - Subtask 1.2 - 'NERC-Fine': recognition and classification of entity mentions according to fine-grained types (cf. column 2 in Table 2), plus the detection and classification of nested entities of depth 1 (task proposed for English, French and German for some datasets).
+
+**Task 2 : Named Entity Linking (EL)**    
+
+Linking of NE mentions to a unique referent in [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) or to a NIL node if the mention does not have a referent in the KB. The entity linking task includes two settings: with (EL only) and without (end-to-end EL) prior knowledge of mention boundaries.
+
+
+## Data
+
+HIPE-2022 data consists of **six primary NE-annotated datasets assembled and prepared for the shared task**. Primary datasets originate from several European cultural heritage projects, from HIPE organizers’ previous research project, and from the previous HIPE-2020 campaign. Some are already published, others are released for the first time for HIPE-2022.
+
+Primary datasets are composed of historical newspapers and classical commentaries covering ca. 200 years; they feature several languages and were annotated with different entity tag sets and according to different annotation guidelines. 
+
+HIPE-2022 team assembles and prepares these primary datasets in **HIPE-2022 release(s)**, which correspond to a single package composed of neatly structured and homogeneously formatted files. Primary datasets undergo the following preparation steps:
+
+- conversion to the HIPE format (with correction of data inconsistencies and metadata consolidation);
+- rearrangement or composition of train and dev splits.
+
+
+Below is an overview table, check the **generic HIPE-2022-data [README](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)** for more information on format, tagging scheme and mapping, as well as the participation guidelines.
+
+| Dataset alias | README | Document type | Languages |  Suitable for | Project | License |
+|---------|---------|---------------|-----------| ---------------|---------------| ---------------|
+| ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC-Coarse, NERC-Fine, EL | [AjMC](https://mromanello.github.io/ajax-multi-commentary/) |
+| hipe2020   | [link](documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC-Coarse, NERC-Fine, EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)| [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| letemps    | [link](documentation/README-letemps.md) | historical newspapers    | fr | NERC-Coarse, NERC-Fine | LeTemps | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| topres19th | [link](documentation/README-topres19th.md) | historical newspapers | en | NERC-Coarse, EL |[Living with Machines](https://livingwithmachines.ac.uk/) | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| newseye    | [link](documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC-Coarse, NERC-Fine, EL |  [NewsEye](https://www.newseye.eu/) |  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
+| sonar      | [link](documentation/README-sonar.md) | historical newspapers  | de | NERC-Coarse, EL |  [SoNAR](https://sonar.fh-potsdam.de/)  | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
+
+
+
 
 <!-- 
 
