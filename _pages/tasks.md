@@ -34,6 +34,18 @@ HIPE-2022 team assembles and prepares these primary datasets in **HIPE-2022 rele
 
 Below is an overview table, check the **generic HIPE-2022-data [README](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)** for more information on format, tagging scheme and mapping, as well as the participation guidelines.
 
+
+HIPE-2022 data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+**Releases**     
+
+- v1.0
+
 | Dataset alias | README | Document type | Languages |  Suitable for | Project | License |
 |---------|---------|---------------|-----------| ---------------|---------------| ---------------|
 | ajmc       | [link](documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC-Coarse, NERC-Fine, EL | [AjMC](https://mromanello.github.io/ajax-multi-commentary/) |
