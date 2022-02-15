@@ -57,5 +57,5 @@ The global adaptation challenge aims at appreciating how efficiently systems can
 * submission bundles must be for two task bundles at most, among: bundle 1, 2, 3, 4, 5.
 
 
-![](/assets/images/HIPE2022-EvaluationSettingOverview.png){: .align-center}
+![](/assets/images/HIPE2022-EvaluationSettingOverview.png)
 
