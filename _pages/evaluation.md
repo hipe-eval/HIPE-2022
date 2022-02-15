@@ -14,6 +14,9 @@ The performance of systems will be evaluated in terms of Precision, Recall and F
 The [HIPE 2020 scorer](https://github.com/impresso/CLEF-HIPE-2020-scorer) will be used again.
 
 
+<span style="color:orange">**Important:**</span>  Teams **cannot use any additional data from the primary data projects** than the material available via HIPE-2022 train/sample/dev sets and released in the HIPE-2022-data repository for training their system. But they can use annotated data from any other project. The principles of trust and academic integrity apply.
+
+
 
 ### Task Bundles, Tracks and Challenges
 
@@ -22,9 +25,8 @@ To accommodate the different dimensions that characterize HIPE-2022 (tasks, lang
 
 - **task bundle**:  as for CLEF-HIPE-2020, a task bundle is a predefined set of tasks. 
 - **submission bundle**: a triple composed of [dataset-language-taskbundle].
-- **track**: a triple composed of [dataset-language-task].
-- **challenge**: a predefined set of tracks. A challenge can be seen as a kind of tournament or championship composed of races (or tracks).
-
+- **track**: a specific triple composed of the test set of [dataset-language-task].
+- **challenge**: a HIPE-2022 predefined set of tracks. A challenge can be seen as a kind of tournament with multiple tracks.
 
 HIPE-2022 specifically evaluates 3 challenges:
 

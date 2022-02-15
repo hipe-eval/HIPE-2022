@@ -20,7 +20,7 @@ Linking of NE mentions to a unique referent in [Wikidata](https://www.wikidata.o
 
 ## Data
 
-HIPE-2022 data consists of **six primary NE-annotated datasets assembled and prepared for the shared task**. Primary datasets originate from several European cultural heritage projects, from HIPE organizers’ previous research project, and from the previous HIPE-2020 campaign. Some are already published, others are released for the first time for HIPE-2022.
+HIPE-2022 datasets are based on **six primary NE-annotated datasets assembled and prepared for the shared task**. Primary datasets originate from several European cultural heritage projects, from HIPE organizers’ previous research project, and from the previous HIPE-2020 campaign. Some are already published, others are released for the first time for HIPE-2022.
 
 Primary datasets are composed of historical newspapers and classical commentaries covering ca. 200 years; they feature several languages and were annotated with different entity tag sets and according to different annotation guidelines. 
 
@@ -28,6 +28,8 @@ HIPE-2022 team assembles and prepares these primary datasets in **HIPE-2022 rele
 
 - conversion to the HIPE format (with correction of data inconsistencies and metadata consolidation);
 - rearrangement or composition of train and dev splits.
+
+<span style="color:orange">**Important:**</span> Teams **cannot use any additional data from the primary data projects** than the material available via HIPE-2022 train/sample/dev sets and released in the HIPE-2022-data repository for training their system. But they can use annotated data from any other project. The principles of trust and academic integrity apply.
 
 
 Below is an overview table, check the **generic HIPE-2022-data [README](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)** for more information on format, tagging scheme and mapping, as well as the participation guidelines.
