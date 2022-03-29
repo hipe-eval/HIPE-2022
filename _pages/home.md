@@ -73,7 +73,7 @@ feature_row:
 
 
 **Latest news:** 
- -  22.03.2022: Release of [HIPE-2022 data v2.0](https://github.com/hipe-eval/HIPE-2022-data) (see the [data/v2.0](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.0) github folder, the github [release](https://github.com/hipe-eval/HIPE-2022-data/releases), and the updated zenodo [record](https://zenodo.org/record/6089968)).
+ -  22.03.2022: Release of [HIPE-2022 data v2.0](https://github.com/hipe-eval/HIPE-2022-data) (see the [data/v2.0](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.0) github folder, the github [release](https://github.com/hipe-eval/HIPE-2022-data/releases), and the zenodo [record](https://zenodo.org/record/6089968)).
  - 15.02.2022: Release of [HIPE-2022 data v1.0](https://github.com/hipe-eval/HIPE-2022-data) and of the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662).
  - 15.11.2021: CLEF lab **registration** open on 15 November 2021 and closes on 22 April 2022: [registration link](https://clef2022-labs-registration.dei.unipd.it/).
  - 24.09.2021: [Lab presentation at CLEF 2021](https://docs.google.com/presentation/d/1wb08-0WROHMSGyLbWzlp5IZHhAGg-WAMLuL18i7_2MM/edit?usp=sharing)
