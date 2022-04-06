@@ -73,6 +73,7 @@ feature_row:
 
 
 **Latest news:** 
+ -  12.04.2022: Presentation of the lab during the CLEF session at [ECIR 2022](https://ecir2022.org/). Accepted version of the Introduction to HIPE-2022 paper [here](https://hipe-eval.github.io/HIPE-2022/assets/pdf/HIPE2022_ECIR_shortpaper_postprint.pdf).
  -  22.03.2022: Release of [HIPE-2022 data v2.0](https://github.com/hipe-eval/HIPE-2022-data) (see the [data/v2.0](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.0) github folder, the github [release](https://github.com/hipe-eval/HIPE-2022-data/releases), and the zenodo [record](https://zenodo.org/record/6089968)).
  - 15.02.2022: Release of [HIPE-2022 data v1.0](https://github.com/hipe-eval/HIPE-2022-data) and of the [Participation Guidelines](https://doi.org/10.5281/zenodo.6045662).
  - 15.11.2021: CLEF lab **registration** open on 15 November 2021 and closes on 22 April 2022: [registration link](https://clef2022-labs-registration.dei.unipd.it/).
