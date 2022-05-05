@@ -73,6 +73,8 @@ feature_row:
 
 
 **Latest news:**     
+ -  05.05.2022: Release of HIPE-2022 data **test EL-masked for bundle 5** (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder)
+ -  26.04.2022: Release of HIPE-2022 data **test all-masked for bundle 1 to 4** (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder)   
  -  15.04.2022: Release of [HIPE-2022 data v2.1](https://github.com/hipe-eval/HIPE-2022-data) (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder, the github [release](https://github.com/hipe-eval/HIPE-2022-data/releases), and the zenodo [record](https://zenodo.org/record/6463040)).    
  -  12.04.2022: Presentation of the lab during the CLEF session at [ECIR 2022](https://ecir2022.org/). Accepted version of the Introduction to HIPE-2022 paper [here](https://hipe-eval.github.io/HIPE-2022/assets/pdf/HIPE2022_ECIR_shortpaper_postprint.pdf).    
  -  22.03.2022: Release of [HIPE-2022 data v2.0](https://github.com/hipe-eval/HIPE-2022-data) (see the [data/v2.0](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.0) github folder, the github [release](https://github.com/hipe-eval/HIPE-2022-data/releases), and the zenodo [record](https://zenodo.org/record/6463040)).     
