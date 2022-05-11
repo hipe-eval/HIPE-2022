@@ -73,6 +73,8 @@ feature_row:
 
 
 **Latest news:**     
+
+ -  11.05.2022: Results for all bundles will be published on 12.05.2022 (since bundle 5 submission was postponed)
  -  05.05.2022: Release of HIPE-2022 data **test EL-masked for bundle 5** (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder)
  -  26.04.2022: Release of HIPE-2022 data **test all-masked for bundle 1 to 4** (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder)   
  -  15.04.2022: Release of [HIPE-2022 data v2.1](https://github.com/hipe-eval/HIPE-2022-data) (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder, the github [release](https://github.com/hipe-eval/HIPE-2022-data/releases), and the zenodo [record](https://zenodo.org/record/6463040)).    
