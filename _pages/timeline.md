@@ -31,8 +31,8 @@ More details coming soon.
 * **04 May 2022, 10:00 CEST**: Test data release for bundle 5 (i.e. mention boundaries).
 * **06 May 2022, 12:00 CEST**: Transmission of results to each participating team for bundles 1-4.
 * ~~**06 May 2022, 23:59 CEST**~~ -> **09 May 2022, 18:00 CEST**: Task bundle 5 system responses due. UPDATE: 
-* ~~**10 May 2022, 12:00 CEST**~~-> **11 May 2022, 12:00 CEST**: Transmission of results to each participating team for bundle 5 and publication of test data. 
-* **11 May 2022, 12:00 CEST**: Publication of results.
+* ~~**10 May 2022, 12:00 CEST**~~-> **11 May 2022, 12:00 CEST**: Transmission of results to each participating team for bundle 5. 
+* ~~**11 May 2022, 12:00 CEST**~~-> **12 May 2022, 12:00 CEST**: Publication of results and of test data.
 * **27 May 2022, 23:59 CEST**: Submission of participant papers (CEUR-WS).
 * **27 May – 13 June 2022**: Review process of participant papers.
 * **6 June 2022, 23:59 CEST**: Submission of condensed lab overviews (LNCS, for organisers].
