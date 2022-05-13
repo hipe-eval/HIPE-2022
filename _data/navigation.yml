@@ -6,6 +6,8 @@ main:
     url: '/tasks'
   - title: Evaluation
     url: 'evaluation'
+  - title: Results
+    url: 'results'
   - title: Timeline
     url: 'timeline'
   - title: Workshop
