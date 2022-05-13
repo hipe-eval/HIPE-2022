@@ -616,14 +616,6 @@ See [ranking-hipe2020-fr-nel-micro-fuzzy-all.tsv](https://github.com/hipe-eval/H
 
 See [ranking-hipe2020-fr-nel-micro-fuzzy-relaxed-all.tsv](https://github.com/hipe-eval/HIPE-2022-eval/blob/master/evaluation/system-rankings/ranking-hipe2020-fr-nel-micro-fuzzy-relaxed-all.tsv) for full details.
 
-### newseye
-
-### sonar
-
-### topres19th
-
-### ajmc
-
 **EL ajmc English strict @1 (literal sense)** [`NEL-LIT-micro-fuzzy-TIME-ALL-LED-ALL-@1`]
 
 | Rank   | System                  | F1    | Precision   | Recall   | TP   | FP   | FN   |
