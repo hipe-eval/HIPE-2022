@@ -74,6 +74,9 @@ feature_row:
 
 **Latest news:**     
 
+ -  25.05.2022: Publication of HIPE-2022 challenge evaluation results, see [HIPE_2022_evaluation_results.md](https://github.com/hipe-eval/HIPE-2022-eval/blob/main/HIPE_2022_evaluation_results.md) in [HIPE-2022-eval](https://github.com/hipe-eval/HIPE-2022-eval); release [v2.1-test-all-unmasked](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test-all-unmasked) of [HIPE-2022-data](https://github.com/hipe-eval/HIPE-2022-data); release [v2.0](https://github.com/hipe-eval/HIPE-scorer/releases/tag/v2.0) of [HIPE-scorer](https://github.com/hipe-eval/HIPE-scorer).    
+ -  13.05.2022: Publication of HIPE-2022 track evaluation (dataset-language-task) [results](https://github.com/hipe-eval/HIPE-2022-eval/blob/main/evaluation/system-rankings/ranking_summary.md)        
+ -  13.05.2022: Publication of tracks (dataset-language-task) results     
  -  11.05.2022: Results for all bundles will be published on 12.05.2022 (since bundle 5 submission was postponed)
  -  05.05.2022: Release of HIPE-2022 data **test EL-masked for bundle 5** (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder)
  -  26.04.2022: Release of HIPE-2022 data **test all-masked for bundle 1 to 4** (see the [data/v2.1](https://github.com/hipe-eval/HIPE-2022-data/tree/main/data/v2.1) github folder)   
