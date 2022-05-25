@@ -5,6 +5,7 @@ permalink: evaluation
 
 For a detailed description of the evaluation settings please refer to the [HIPE-2022 Participation Guidelines](https://doi.org/10.5281/zenodo.6045662).
 
+For HIPE-2022 overall results refer to the [Results](https://hipe-eval.github.io/HIPE-2022/results) page and to [HIPE_2022_evaluation_results.md](https://github.com/hipe-eval/HIPE-2022-eval/blob/main/HIPE_2022_evaluation_results.md) in [HIPE-2022-eval](https://github.com/hipe-eval/HIPE-2022-eval).     
 
 ### Evaluation metrics and scorer   
 
