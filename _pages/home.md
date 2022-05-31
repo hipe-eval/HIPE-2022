@@ -40,8 +40,8 @@ feature_row:
       btn_label: "Learn more"
     - image_path: #/assets/images/mm-responsive-feature.png
       alt: #"fully responsive"
-      title: "Timeline"
-      excerpt: "Important dates for participating in the shared task."
+      title: "Timeline & Instructions"
+      excerpt: "Important dates for participating in the shared task and Working Notes paper instructions."
       url: "/timeline"
       #btn_class: "btn--inverse"
       btn_label: "Learn more"
