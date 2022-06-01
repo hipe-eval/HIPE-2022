@@ -26,10 +26,10 @@ permalink: timeline
 * ~~**11 May 2022, 12:00**~~-> **12 May 2022, noon**: Publication of results and of test data.
 * ~~**27 May 2022, 23:59**~~->**30 May 2022, 23:59**: Submission of participant Working Note.
 * **27 May – 13 June 2022**: Review process of WN papers.
-* **06 June 2022, 23:59**: Submission of condensed lab overviews (LNCS).
-* **13 June 2022**: Notification of acceptance (WN papers and condensed lab overviews).
-* **20 June 2022, 23:59**: Camera-ready copy of condensed lab overviews (LNCS).
-* **01 July 2022, 23:59**: Camera-ready copy of WN papers and extended lab overview.
+* **06 June 2022, 23:59**: Submission of condensed lab overview (by organisers).
+* **13 June 2022**: Notification of acceptance (WN and condensed lab overview).
+* **20 June 2022, 23:59**: Camera-ready copy of condensed lab overview (by organisers).
+* **01 July 2022, 23:59**: Camera-ready copy of WN (part.) and extended lab overview (org.).
 * **18-22 July 2022**: WN paper preview for checking by authors and lab organizers.
 * **05-08 Sept 2022**: CLEF 2022 Conference.
 
