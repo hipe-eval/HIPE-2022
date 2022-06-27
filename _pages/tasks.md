@@ -32,7 +32,7 @@ HIPE-2022 team assembles and prepares these primary datasets in **HIPE-2022 rele
 <span style="color:orange">**Important:**</span> Teams **cannot use any additional data from the primary data projects** than the material available via HIPE-2022 train/sample/dev sets and released in the HIPE-2022-data repository for training their system. But they can use annotated data from any other project. The principles of trust and academic integrity apply.
 
 
-Below is an overview table, check the **generic HIPE-2022-data [README](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)** for more information on format, tagging scheme and mapping, as well as the participation guidelines.
+Below is an overview table, check the **generic HIPE-2022-data [README](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)** for more information on version history, format, tagging scheme and mapping, as well as the participation guidelines.
 
 
 HIPE-2022 data is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -42,18 +42,15 @@ HIPE-2022 data is licensed under a [Creative Commons Attribution-NonCommercial-S
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-**Releases**     
-
-- v1.0 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6089968.svg)](https://doi.org/10.5281/zenodo.6089968)
 
 | Dataset alias | README | Document type | Languages |  Suitable for | Project | License |
 |---------|---------|---------------|-----------| ---------------|---------------| ---------------|
-| ajmc       | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)  | classical commentaries | de, fr, en | NERC-Coarse, NERC-Fine, EL | [AjMC](https://mromanello.github.io/ajax-multi-commentary/) |[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
-| hipe2020   | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)| historical newspapers | de, fr, en | NERC-Coarse, NERC-Fine, EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)| [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
-| letemps    | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md) | historical newspapers    | fr | NERC-Coarse, NERC-Fine | LeTemps | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
-| topres19th | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md) | historical newspapers | en | NERC-Coarse, EL |[Living with Machines](https://livingwithmachines.ac.uk/) | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
-| newseye    | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md)|  historical newspapers | de, fi, fr, sv | NERC-Coarse, NERC-Fine, EL |  [NewsEye](https://www.newseye.eu/) |  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
-| sonar      | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/README.md) | historical newspapers  | de | NERC-Coarse, EL |  [SoNAR](https://sonar.fh-potsdam.de/)  | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
+| ajmc       | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/documentation/README-ajmc.md)  | classical commentaries | de, fr, en | NERC-Coarse, NERC-Fine, EL | [AjMC](https://mromanello.github.io/ajax-multi-commentary/) |[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
+| hipe2020   | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/documentation/README-hipe2020.md)| historical newspapers | de, fr, en | NERC-Coarse, NERC-Fine, EL | [CLEF-HIPE-2020](https://impresso.github.io/CLEF-HIPE-2020)| [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| letemps    | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/documentation/README-letemps.md) | historical newspapers    | fr | NERC-Coarse, NERC-Fine | LeTemps | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| topres19th | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/documentation/README-topres19th.md) | historical newspapers | en | NERC-Coarse, EL |[Living with Machines](https://livingwithmachines.ac.uk/) | [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)|
+| newseye    | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/documentation/README-newseye.md)|  historical newspapers | de, fi, fr, sv | NERC-Coarse, NERC-Fine, EL |  [NewsEye](https://www.newseye.eu/) |  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
+| sonar      | [link](https://github.com/hipe-eval/HIPE-2022-data/blob/main/documentation/README-sonar.md) | historical newspapers  | de | NERC-Coarse, EL |  [SoNAR](https://sonar.fh-potsdam.de/)  | [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)|
 
 
 
