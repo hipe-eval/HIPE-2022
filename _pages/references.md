@@ -3,8 +3,16 @@ title: References
 permalink: references   
 ---
 
-**About HIPE-2022**
-- M. Ehrmann, M. Romanello, A. Doucet, and S. Clematide, S. (2022). Introducing the HIPE 2022 Shared Task: Named Entity Recognition and Linking in Multilingual Historical Documents. In: Advances in Information Retrieval. ECIR 2022. Lecture Notes in Computer Science, vol 13186. Springer, Cham. [https://doi.org/10.1007/978-3-030-99739-7_44](https://doi.org/10.1007/978-3-030-99739-7_44) (link to [preprint](https://hipe-eval.github.io/HIPE-2022/assets/pdf/HIPE2022_ECIR_shortpaper_postprint.pdf)).
+**About HIPE-2022**    
+
+LNCS Condensed Lab Overview Paper:
+
+- M. Ehrmann, M. Romanello, S. Najem-Meyer, A. Doucet, and S. Clematide, “Overview of HIPE-2022: Named Entity Recognition and Linking in Multilingual Historical Documents,” in Experimental IR meets multilinguality, multimodality, and interaction. Proceedings of the thirteenth international conference of the CLEF association (CLEF 2022), Cham, 2022. (link to [accepted version](https://hipe-eval.github.io/HIPE-2022/assets/pdf/HIPE_2022_LNCS_CondensedLabOverview_accepted_version.pdf), link to [bibtex](https://github.com/hipe-eval/HIPE-2022-eval#references)).
+
+ECIR Introduction Short Paper:
+
+
+- M. Ehrmann, M. Romanello, A. Doucet, and S. Clematide, S. (2022). Introducing the HIPE 2022 Shared Task: Named Entity Recognition and Linking in Multilingual Historical Documents. In: Advances in Information Retrieval. ECIR 2022. Lecture Notes in Computer Science, vol 13186. Springer, Cham. [https://doi.org/10.1007/978-3-030-99739-7_44](https://doi.org/10.1007/978-3-030-99739-7_44) (link to [preprint](https://hipe-eval.github.io/HIPE-2022/assets/pdf/HIPE2022_ECIR_shortpaper_postprint.pdf), link to [bibtex](https://github.com/hipe-eval/HIPE-2022-eval#references)).
 
 
 **Datasets**
@@ -30,6 +38,18 @@ permalink: references
 - CLEF-HIPE-2020 Workshop [Presentation Video Recordings](https://www.youtube.com/playlist?list=PLB45F159nVx-3bee7G_1jdTfUAtsLD0FU).
 
 
+<details>
+<summary>Bibtex</summary>
 
+```
+@proceedings{clef2022_lncs_2022,
+  editor    = {Barrón-Cedeño, Alberto and Da San Martino, Giovanni and Degli Esposti, Mirko and Sebastiani, Fabrizio and Macdonald, Craig and Pasi, Gabriella and Hanbury, Allan and Potthast, Martin and Faggioli, Guglielmo and Ferro, Nicola},
+  title     = {{Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022)}},
+  series    = {Lecture Notes in Computer Science (LNCS)},
+  publisher = {Springer},
+  year      = {2022}
+}
+``` 
+</details>
 
 

@@ -81,38 +81,7 @@ The metadata of easychair submission will be used for preparing final Working No
 
 The copyright form can be downloaded [here](https://drive.google.com/file/d/1pqwL_1zdANJsKqSRUx5_EIouQpEkHake/view?usp=sharing).
 Please note that it is mandatory to print the form, sign it by hand, and upload a scan of the signed physical copyright form.
-
-
-###  Information on CLEF 2022 Volumes and HIPE-2022 Lab Overview papers
-
-**CLEF2022 LNCS volume**
-
-```
-@proceedings{clef2022_lncs_2022,
-  editor    = {Barrón-Cedeño, Alberto and Da San Martino, Giovanni and Degli Esposti, Mirko and Sebastiani, Fabrizio and Macdonald, Craig and Pasi, Gabriella and Hanbury, Allan and Potthast, Martin and Faggioli, Guglielmo and Ferro, Nicola},
-  title     = {{Experimental IR Meets Multilinguality, Multimodality, and Interaction. Proceedings of the Thirteenth International Conference of the CLEF Association (CLEF 2022)}},
-  series    = {Lecture Notes in Computer Science (LNCS)},
-  publisher = {Springer},
-  year      = {2022},
-}
-```
-
-**CLEF2022 CEUR-WS Working Notes volume**
-
-```
-@proceedings{clef2022_ceur_2022,
-  editor    = {Faggioli, Guglielmo and Ferro, Nicola and Hanbury, Allan and Potthast, Martin},
-  title     = {{Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum}},
-  series    = {Lecture Notes in Computer Science (LNCS)},
-  publisher = {Springer},
-  year      = {2022},
-}
-```
-
-
-**HIPE-2022 Overview papers**
-
-*information to come.*
+  
 
 [BACK TO TOP](#)
 
