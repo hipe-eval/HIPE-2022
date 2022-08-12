@@ -8,12 +8,12 @@ The workshop will take place during the [CLEF 2022 conference](https://clef2022.
 See the workshop programme below, or in PDF [here](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/HIPE2022-programme.pdf), and the CLEF progamme [here](https://clef2022.clef-initiative.eu/index.php?page=Pages/programme.html) (do not forget to [register](https://clef2022.clef-initiative.eu/index.php?page=Pages/conferenceRegistration.html)!)
 
 
-#### Wed 7th September  -  CLEF Evaluation Lab Overview
+#### Wed 7th September  -  CLEF Evaluation Lab Overview (Room B)
 
 |---------|---------|
 |  **10:50 - 12:30** | HIPE 2022 overview during CLEF plenary session. *Maud Ehrmann, Matteo Romanello, Sven Najem-Meyer, Antoine Doucet and Simon Clematide*.|
 
-#### Thur 8th September - Participant presentations
+#### Thur 8th September - Participant presentations (Room F)
 
 |---------|---------|
 | **11:00 - 11:20** | hmBERT: Historical Multilingual Language Models for Named Entity Recognition (Team HISTeria, remote). *Stefan Schweter, Luisa März, Katharina Schmid, Erion Çano*.    |
