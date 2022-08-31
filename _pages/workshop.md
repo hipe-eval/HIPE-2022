@@ -15,6 +15,8 @@ See the workshop programme below, or in PDF [here](https://github.com/hipe-eval/
 
 #### Thur 8th September - Participant presentations (Room F)
 
+Presentations should be a minimum of 10 minutes and a maximum of **15 minutes**, leaving 5 minutes for questions.
+
 |---------|---------|
 | **11:00 - 11:20** | hmBERT: Historical Multilingual Language Models for Named Entity Recognition (Team HISTeria, remote). *Stefan Schweter, Luisa März, Katharina Schmid, Erion Çano*.    |
 | **11:20 - 11:40** | Exploring Transformers for Multilingual Historical Named Entity Recognition (Team AAUZH, onsite). *Anja Ryser, Quynh Anh Nguyen, Niclas Bodenmann, Shih-Yun Chen*. |
