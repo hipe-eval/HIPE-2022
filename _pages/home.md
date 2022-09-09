@@ -74,7 +74,7 @@ feature_row:
 
 **Latest news:**     
 
- - 09.09.2022: Thanks to all for your participations! **Slides of the Lab Overview participation** are available [here](https://github.com/hipe-eval/HIPE-2022/blob/main/assets/pdf/CLEF-HIPE-2022-Overview-Slides.pdf).
+ - 09.09.2022: Thanks to all for your participations! **Slides of the Lab Overview participation** are available [here](https://doi.org/10.5281/zenodo.7064819).
  -  7-8.09.2022: HIPE-2022 Lab Overview presentation and HIPE Workshop at CLEF, both onsite and online, check the [programme](https://hipe-eval.github.io/HIPE-2022/workshop)!
  -  25.05.2022: Publication of HIPE-2022 challenge evaluation results, see [HIPE_2022_evaluation_results.md](https://github.com/hipe-eval/HIPE-2022-eval/blob/main/HIPE_2022_evaluation_results.md) in [HIPE-2022-eval](https://github.com/hipe-eval/HIPE-2022-eval); release [v2.1-test-all-unmasked](https://github.com/hipe-eval/HIPE-2022-data/releases/tag/v2.1-test-all-unmasked) of [HIPE-2022-data](https://github.com/hipe-eval/HIPE-2022-data); release [v2.0](https://github.com/hipe-eval/HIPE-scorer/releases/tag/v2.0) of [HIPE-scorer](https://github.com/hipe-eval/HIPE-scorer).    
  -  13.05.2022: Publication of HIPE-2022 track evaluation (dataset-language-task) [results](https://github.com/hipe-eval/HIPE-2022-eval/blob/main/evaluation/system-rankings/ranking_summary.md)        
